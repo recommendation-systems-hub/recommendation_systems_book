@@ -1,1 +1,62 @@
+1 IntroductiontoRecommendationSystems ........................ 1 
+1.1 EvolutionofRecommendationSystems ........................ 1 
+1.2 ApplicationsofRecommendationSystems ..................... 1 
+1.3 AdvancedTopicsinRecommendationSystems.................. 1 
+1.4 Summary ................................................. 1 
+1.5 BibliographicNotes ........................................ 1 
+References ..................................................... 1
+2 TraditionalRecommendationSystems............................ 3 
+2.1 CollaborativeFiltering ...................................... 3 
+2.2 Content-basedRecommendationSystems ...................... 3 
+2.3 Knowledge-basedRecommendationSystems ................... 3 
+2.4 EnsembleRecommendationSystems .......................... 3 
+References ..................................................... 3
+3 DeepRecommendationModels .................................. 7 
+3.1 CNN-basedRecommendationModels ......................... 7 
+3.2 RNN-basedRecommendationModels ......................... 7 
+3.3 DeepRL-basedRecommendationModels ...................... 7 
+3.4 DeepEmbeddings.......................................... 7 
+3.5 TransformersinRecommendationSystems ..................... 7 
+3.6 HybridRecommendationModels ............................. 7 
+References ..................................................... 7
+4 HybridRecommendationSystems................................ 11 
+4.1 DeepFeatureProcessingModules............................. 11 
+4.2 DeepRetrievalModules ..................................... 11 
+4.3 DeepRankingModules ..................................... 11 
+4.4 HybridSchemes ........................................... 11 
+References ..................................................... 11
+EmpiricalRecommendationSystems ............................. 15 
+5.1 Web-basedRecommendationSystems ......................... 15 
+5.1.1 ImageRecommendationSystems....................... 15 
+5.1.2 VideoRecommendationSystems ....................... 15 
+5.1.3 ProductRecommendationSystems...................... 15 
+5.1.4 SocialRecommendationSystems....................... 15 
+References ..................................................... 15
+6 SystemEvaluations............................................. 19 
+6.1 OfflinePerformanceMetrics ................................. 19 
+6.2 OnlineEvaluations ......................................... 19
+6.2.1 OnlineMetrics ...................................... 19 
+6.2.2 A/BTesting......................................... 19 
+6.2.3 Interleaving ......................................... 19
+References ..................................................... 19
+7 AdvancedTopics ............................................... 23 
+7.1 ContextSensitivity ......................................... 23 
+7.2 TimeandLocationSensitivity................................ 23 
+7.3 SocialityandTrust ......................................... 23 
+7.4 AttackResistance .......................................... 23 
+7.5 FairRecommendation....................................... 23 
+7.6 PrivacyPreservation ........................................ 23 
+7.7 Personalization ............................................ 23 
+References ..................................................... 23
+A Appendix ..................................................... 27 
+A.1 MathAppendix ............................................ 27
+Glossary .......................................................... 29 
+Index ............................................................. 31
 
+If you use this writing, please cite it as below.
+@book{rlftter,
+  title={Recommendation Systems - From Theory To Empirical Research},
+  author={Yingying Zhu and Emily Lyon},
+  year={2018},
+  publisher={GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book}
+}
