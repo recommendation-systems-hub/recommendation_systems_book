@@ -56,7 +56,7 @@ Index ............................................................. 31
 If you use this writing, please cite it as below.
 @book{rlftter,
   title={Recommendation Systems - From Theory To Empirical Research},
-  author={Emily Zhu and Kalyan Schimidt},
+  author={Emily Zhu},
   year={2018},
   publisher={GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book}
 }
