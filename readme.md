@@ -1,8 +1,8 @@
-This book is written with writing AI assistant tools Gemini and Grammarly. If you found presentations in the book that are the same as yours, please email with demonstrations.
+<div align="center">
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_brain_icon.png" width="500px" >
+</div>
 
-The Google Brain recommendation team and Outerspace Intelligence Research team supported parts of the work. Please feel free to subscribe for updates.
-
-<!--![image](./references/readme_icon.webp)-->
+Parts of the work were supported by the Google Brain under Google Research and Outerspace Intelligence Research. Please feel free to subscribe for updates.
 
 Abstracts for each chapter can be found in abstract.pdf.
 
@@ -14,4 +14,7 @@ This is the second version of the book, please cite it as below. The citation in
   year={2024}, \
   publisher={GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book} \
 }
+
+This book is written with customized language AI assistant tools Gemini and Grammarly. If you found presentations in the book that are the same as yours, please email with demonstrations.
+
 
