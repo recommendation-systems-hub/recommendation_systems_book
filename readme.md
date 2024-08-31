@@ -1,6 +1,6 @@
-This book is written with the assistance of language AI products Gemini and Grammarly. If you found presentations in the book that are the same as yours, please email admins@outerspaceintelligences.com with demonstrations.
+This book is written with writing AI assistant tools Gemini and Grammarly. If you found presentations in the book that are the same as yours, please email with demonstrations.
 
-<!--Part of the work was supported by the Outerspace Intelligence Research recommendation team and Google Research recommendation team. -->
+The Google Brain recommendation team and Outerspace Intelligence Research team supported parts of the work. Please feel free to subscribe for updates.
 
 <!--![image](./references/readme_icon.webp)-->
 
