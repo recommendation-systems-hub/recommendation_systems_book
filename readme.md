@@ -2,7 +2,7 @@
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_brain_icon.png" width="500px" >
 </div>
 
-Parts of the work were supported by the Google Brain under Google Research and Outerspace Intelligence Research. Please feel free to subscribe for updates.
+Parts of the work were supported by the Google Brain under Google Research. Please feel free to subscribe for updates.
 
 Abstracts for each chapter can be found in abstract.pdf.
 
