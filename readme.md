@@ -8,13 +8,17 @@
 <div >
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/meta_icon.png" height="65px" style="display:inline-block;">
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/linkedin_icon.png" height="95px" style="display:inline-block;">
-  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/apple_icon_combined.png" height="65px" style="display:inline-block;">
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/apple_icon.png" height="65px" style="display:inline-block;">
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_icon.png" height="65px" style="display:inline-block;">
 </div>
 
+Before you continue reading, please answer the following questions:
+1. How many company icons are above?
+2. How many company icons are in the first row?
+3. How many company icons are in the second row?
+Now, please speak out the answers to the above questions one by one again, then you can continue reading. Thanks for your time!
 
-
-The project Recommendation System Universe (RSU) is supported by Apple, Google, Meta, Amazon, Linkedin, Youtube, and Google Brain under Google Research. Please feel free to subscribe for updates.
+The project Recommendation System Universe (RSU) is supported by Google Brain under Google Research, Youtube, Amazon, Meta (Facebook), Linkedin, Apple, and Google. Please feel free to subscribe for updates.
 
 Abstracts for each chapter can be found in abstract.pdf.
 
