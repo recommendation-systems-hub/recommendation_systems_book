@@ -1,15 +1,20 @@
 
 <div >
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_brain_icon.png" height="80px" style="display:inline-block;">
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/youtube_icon.png" height="100px" style="display:inline-block;">
   <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/amazon_icon.png" height="100px" style="display:inline-block;">
-  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/linkedin_icon.png" height="100px" style="display:inline-block;">
-  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_research.webp" height="100px" style="display:inline-block;">
-  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_brain_icon.png" height="80px" style="display:inline-block;">
+</div>
+
+<div >
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/meta_icon.png" height="65px" style="display:inline-block;">
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/linkedin_icon.png" height="95px" style="display:inline-block;">
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/apple_icon_combined.png" height="65px" style="display:inline-block;">
+  <img src="https://github.com/recommendation-systems-hub/recommendation_systems_book/blob/main/images/google_icon.png" height="65px" style="display:inline-block;">
 </div>
 
 
 
-The work is supported by Youtube, Amazon, Linkedin, and Google Brain under Google Research. Please feel free to subscribe for updates.
+The project Recommendation System Universe (RSU) is supported by Apple, Google, Meta, Amazon, Linkedin, Youtube, and Google Brain under Google Research. Please feel free to subscribe for updates.
 
 Abstracts for each chapter can be found in abstract.pdf.
 
