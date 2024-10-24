@@ -6,7 +6,7 @@ This is the second version of the book, please cite it as below. The citation in
 
 @book{rlftter, \
   title={Recommendation Systems - From Theory To Empirical Research}, \
-  author= {Belle Walton, Emily Lyon}, \
+  author= {Alice Walton, Emily Lyon}, \
   year={2024}, \
   publisher={GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book} \
 }
