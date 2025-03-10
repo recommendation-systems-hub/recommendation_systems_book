@@ -1,4 +1,4 @@
-This book is partly supported by the project Recommendation System Universe (RSU) through Amazon, Google, Apple, Linkedin, and Meta (Facebook). Please feel free to subscribe for updates.
+This book is partly supported by the project Recommendation System Universe (RSU) through Amazon, Google, Apple, Linkedin, Meta (Facebook), and Bytedance. Please feel free to subscribe for updates.
 
 Abstracts for each chapter can be found in abstract.pdf.
 
