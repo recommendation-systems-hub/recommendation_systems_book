@@ -5,7 +5,7 @@ Abstracts for each chapter can be found in abstract.pdf.
 This is the second version of the book, please cite it as below. The citation information will be updated to date.
 
 @book{rlftter, \
-  title={Deep Recommendation Systems - From Theory To Empirical Research}, \
+  title={Recommendation Systems - From Theory To Empirical Research}, \
   author= {Emily Zhu and Alice Walton}, \
   year={2024}, \
   publisher={GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book} \
