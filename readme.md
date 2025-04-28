@@ -6,7 +6,7 @@ This is the second version of the book, please cite it as below. The citation in
 
 @misc{rlftter, \
   title={Recommendation Systems - From Theory To Empirical Research}, \
-  author= {Yingying Zhu}, \
+  author= {Emily Zhu}, \
   year={2024}, \
   howpublished = {\url{GitHub: https://github.com/recommendation-systems-hub/recommendation_systems_book}} \
 }
